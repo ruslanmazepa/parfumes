@@ -1,0 +1,82 @@
+
+@media only screen and (max-width: 1140px) {
+
+
+	#intro {	min-height: 828px; }
+
+	
+	header #logo {	
+		top: 66px;	
+		width: 100px;
+		margin-left: -50px;
+	}
+
+   
+   #main { margin-top: 90px; }
+  	#main h1 { 
+  		font: 38px/1.2em 'montserrat-bold', sans-serif; 
+  		padding: 0 15%;
+  	}
+	#main p { font: 16px/30px 'montserrat-regular', sans-serif; }
+
+
+	#main #counter { 
+		width: 70%;
+		margin: 12px auto 0; 
+	}
+	#main #counter span { font: 60px/1em 'merriweather-bold', serif;	}
+
+
+	#main #mc_embed_signup { margin-bottom: 6px; }
+
+}
+
+
+@media only screen and (max-width: 900px) {
+
+
+	#intro {	min-height: 792px; }
+
+   
+   #main h1 { 
+  		font: 35px/1.2em 'montserrat-bold', sans-serif; 
+  		padding: 0 8%;
+  	}
+  	#main p { 
+  		font: 16px/30px 'montserrat-regular', sans-serif;
+  		padding: 0 10%; 
+  	}
+
+  	
+	#main #counter { width: 80%; }
+	#main #counter span { font: 58px/1em 'merriweather-bold', serif;	}
+
+
+	#main #mc_embed_signup { 
+		width: 65%; 
+		margin-top: 36px;
+	}
+
+
+   #about { padding-top: 84px}
+   #about .section-header .icon-wrap { font-size: 55px; }
+	#about .section-header h1,
+	#call-to-action h2 {	font: 28px/36px 'montserrat-bold', sans-serif; }
+
+	#call-to-action .section-ads { padding-top: 42px; }
+	#call-to-action p { padding: 0 10%; }
+
+	
+	#location .contacts .row .columns { width: 50%; }
+	#location .contacts .row .end { clear: both; }	
+
+}
+
+
+
+
+
+
+
+
+
